@@ -22,6 +22,7 @@ A simple React application that allows users to change the background color dyna
 npm install
 npm run dev 
  
+ *live demo:  https://khushisingh-22.github.io/BG-CHANGER/
  
  # React + Vite
 
