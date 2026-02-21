@@ -1,4 +1,29 @@
-# React + Vite
+ BG Changer 🎨
+
+A simple React application that allows users to change the background color dynamically using buttons.
+
+🚀 Features
+- Change background color on button click
+- Smooth and responsive UI
+- Beginner-friendly React project
+
+ 🛠 Tech Stack
+- React
+- Vite
+- Tailwind CSS
+
+ 📚 Concepts Used
+- useState Hook
+- Event Handling
+- Component-based architecture
+
+ ▶️ How to Run Locally
+```bash
+npm install
+npm run dev 
+ 
+ 
+ # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
