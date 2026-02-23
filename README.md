@@ -18,7 +18,7 @@ A simple React application that allows users to change the background color dyna
 - Component-based architecture
 
 
- *live demo:  https://khushisingh-22.github.io/BG-CHANGER/
+ 
  
  ▶️ How to Run Locally
 ```bash
