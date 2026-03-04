@@ -19,32 +19,32 @@ function App() {
 
        <button
        onClick={() => setColor("green")}
-      className="outline-none px-5 shadow-lg  bg-green-600 text-white rounded-full py-1"> green </button>
+      className="outline-none px-5 shadow-lg  bg-green-600 text-white rounded-full py-1"> GREEN </button>
 
 
        <button 
        onClick={() => setColor("blue")}
-       className="outline-none px-5 shadow-lg  bg-blue-900 text-white rounded-full py-1"> blue </button>
+       className="outline-none px-5 shadow-lg  bg-blue-900 text-white rounded-full py-1"> BLUE </button>
 
 
       < button 
        onClick={() => setColor("pink")}
-       className="outline-none px-5 shadow-lg  bg-pink-900 text-white rounded-full py-1"> blue </button>
+       className="outline-none px-5 shadow-lg  bg-pink-900 text-white rounded-full py-1"> PINK</button>
 
 
        
       < button 
        onClick={() => setColor("black")}
-       className="outline-none px-5 shadow-lg  bg-black text-white rounded-full py-1"> blue </button>
+       className="outline-none px-5 shadow-lg  bg-black text-white rounded-full py-1"> BLACK</button>
    
     
       < button 
        onClick={() => setColor("skyblue")}
-       className="outline-none px-5 shadow-lg  bg-sky-700 text-white rounded-full py-1"> blue </button>
+       className="outline-none px-5 shadow-lg  bg-sky-700 text-white rounded-full py-1"> SKYBLUE</button>
        
       < button 
        onClick={() => setColor("yellow")}
-       className="outline-none px-5 shadow-lg  bg-yellow-700 text-white rounded-full py-1"> blue </button>
+       className="outline-none px-5 shadow-lg  bg-yellow-700 text-white rounded-full py-1"> YELLOW</button>
        
 
 
